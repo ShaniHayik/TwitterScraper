@@ -1,5 +1,7 @@
 This code takes Google’s last 100 tweets from Twitter and provides the following output: 
-1. Hashtag list  2. Mention list  3. Word statistics
+1. Hashtag list  
+2. Mention list  
+3. Word statistics
 
 Please note that 100 tweets might take longer time.
 The output will appear in the console after you will start the program.
