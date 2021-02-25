@@ -1,4 +1,4 @@
-This code takes Google’s last 100 tweets from Twitter and provides the following output: 
+This code takes Google’s last 10 tweets from Twitter and provides the following output: 
 1. Hashtag list  
 2. Mention list  
 3. Word statistics
