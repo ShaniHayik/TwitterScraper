@@ -11,5 +11,3 @@ please replace the file of "chromedriver.exe" in the package to your google chro
 python interpreter: 3.8
 
 thanks!
-
-![Uploading 2021-02-25 15_40_00.gif…]()
